@@ -1,0 +1,13 @@
+body {
+    text-align: center;
+    background-color: #c9c9c9;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+h1 {
+    color: blueviolet;
+    font-size: 3em;
+}
